@@ -6,7 +6,16 @@
 
 ### Agenda for today
 - [x] Create a GitHub Account
-- [] Learn to use repositories
-- [] Use Jupyter notebook
+- [ ] Learn to use repositories
+- [ ] Use Jupyter notebook
 
 Learning to use GitHub etc.
+
+```python
+# This is a comment
+def factorial(x):
+  if x == 1:
+    return 1
+  else:
+    return x * factorial(x-1)
+```
