@@ -1,15 +1,16 @@
 # Summer Workshop 2018
-## Date: June 29
-### Week 3
+## Date: June-July 2018
+### Sample Markdown File
+### Author: Dhananjay Bhaskar <dhananjay_bhaskar@brown.edu>
 
 [Server Access](https://204.48.29.128)
 
-### Agenda for today
+### Agenda
 - [x] Create a GitHub Account
-- [ ] Learn to use repositories
-- [ ] Use **Jupyter** notebook
+- [ ] Learn to use git repositories for version control
+- [ ] Use **Jupyter** notebook to write Python/R/Julia code
 
-Learning to use GitHub etc.
+Code block:
 
 ```python
 # This is a comment
@@ -19,5 +20,3 @@ def factorial(x):
   else:
     return x * factorial(x-1)
 ```
-
-From my macbook pro
